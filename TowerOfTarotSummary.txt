@@ -1,0 +1,22 @@
+Controls:
+	A/D - move left/right
+	Space - Jump
+
+Theme:  The Tower Tarot card represents chaos, so we created a platformer with shifting mechanics!  Each mechanic gets its own level, 
+	and at the end you play a long vertically scrolling level where the previously introduced mechanics switch randomly.  All the while,
+	you must avoid swords falling from above!
+
+Mechanics:
+	Slippery - lower friction, harder to stop on the ground
+	Friction - high friction, stop very quickly on ground and accelerate slower
+	HotSwitch - Hotkeys get reassigned.  You must play the level differently from what you're used to!
+	LavaFloor - The floor is lava.  If you stay grounded for too long, you die.  Keep jumping!
+
+Each level that introduces a mechanic has a tarot card in the upper part of the screen that depicts what mechanic is in place
+	This is especially helpful for the final level so you can easily tell which chaos is currently active
+
+Extra "cheats"
+	Press 'N' tp skip a level.  Every level should be beatable
+	Press 'R' to restart a level from the position at which you started it
+
+Enjoy!
